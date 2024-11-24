@@ -7,4 +7,3 @@ for _ in range(n):
         print("Divisão impossível")
     else:
         print(f"{x / y}:.1f")
-
